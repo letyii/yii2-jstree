@@ -15,7 +15,8 @@
     "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/jstree": "*"
+        "bower-asset/jstree": "*",
+        "components/font-awesome": "*"
     },
     "autoload": {
         "psr-4": {
